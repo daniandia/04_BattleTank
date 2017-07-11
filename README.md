@@ -1,2 +1,2 @@
 # 04_BattleTank
-An open-world htoh tank fight game
+An open-world head to head tank fight game
